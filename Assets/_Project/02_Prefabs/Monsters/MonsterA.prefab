@@ -175,23 +175,24 @@ MonoBehaviour:
   walkFrames:
   - {fileID: 21300000, guid: 16f3c00d93a3c944e952fc5b7871ba2b, type: 3}
   - {fileID: 21300000, guid: 78b9ff96d51640f47984a2745ff9e7d6, type: 3}
-  - {fileID: 21300000, guid: 5b5127ffc8c55ba4e8df16ab43e928f1, type: 3}
-  - {fileID: 21300000, guid: 63788f48d15541c44b22163d2dbc2f39, type: 3}
-  - {fileID: 21300000, guid: 6525d3fb1bd30b94b89ac8c3733e9674, type: 3}
-  - {fileID: 21300000, guid: 15213a76872978b46a893a10924c2aa5, type: 3}
   attackFrames:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
   - {fileID: 21300000, guid: cfae7e947c714fc099090edb1e697ccc, type: 3}
   - {fileID: 21300000, guid: 1b57aaa5888e4c1f8be88e50cd2c26c2, type: 3}
+  - {fileID: 21300000, guid: 731cd189293a1dc41ae8c816d66657a1, type: 3}
+  - {fileID: 21300000, guid: 99e8388880bd9db43b9038ba91e684ea, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
+  - {fileID: 21300000, guid: 8a585f7f179b97d43b39e6c751deca57, type: 3}
+  - {fileID: 21300000, guid: a5bf143a3556cbf42b16decb84b99020, type: 3}
   deathFrames:
   - {fileID: 21300000, guid: fe57be3755c24f629687185316dfbb9c, type: 3}
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
   - {fileID: 21300000, guid: c207956a914b4a02bb1ae40b2a36740c, type: 3}
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
+  - {fileID: 21300000, guid: 92ec1bee25785a546b438903957c21da, type: 3}
   idleFrameTimes:
   - 0.1667
   - 0.1667
